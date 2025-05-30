@@ -33,7 +33,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.1.0</version>
         <configuration>
-          <mainClass>jlox.App</mainClass>
+          <mainClass>jlox.Lox</mainClass>
         </configuration>
       </plugin>
     </plugins>
